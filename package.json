@@ -1,7 +1,7 @@
 {
 	"name": "fast-live-filter",
 	"main": "jquery.fastLiveFilter.js",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"title": "jQuery.fastLiveFilter()",
 	"author": {
 		"name": "Anthony Bush",
