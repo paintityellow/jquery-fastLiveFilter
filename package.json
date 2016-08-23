@@ -1,5 +1,6 @@
 {
 	"name": "fast-live-filter",
+	"main": "jquery.fastLiveFilter.js",
 	"version": "1.0.3",
 	"title": "jQuery.fastLiveFilter()",
 	"author": {
@@ -13,7 +14,7 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "1.x.x"
+		"jquery": "3.x.x"
 	},
 	"description": "A live filter plugin for jQuery built for speed and ease of use",
 	"keywords": [
